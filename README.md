@@ -1,6 +1,6 @@
 # Awesome AI OSINT
   
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/cipher387/osint_stuff_tool_collection">  <img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/osint_stuff_tool_collection"> <br>
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/ubikron/Awesome-AI-OSINT">  <img alt="GitHub forks" src="https://img.shields.io/github/forks/ubikron/Awesome-AI-OSINT"> <br>
 
 A list of articles, videos, and tools related to the use of AI for OSINT.
 
