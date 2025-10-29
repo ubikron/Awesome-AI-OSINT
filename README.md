@@ -128,6 +128,25 @@ Ubikron not only replaces a bunch of browser extensions for analysing browser hi
 [OSINT AI CLI](https://github.com/Mawgaming/osint-ai-cli)  
 [AI OSINT Security Analyzer](https://github.com/Armaan29-09-2005/AI-OSINT-Security-Analyzer)  
 
+### Face search/analysis tools
+
+[FaceSeek AI Powered Reverse Face Search](https://www.faceseek.online/) 
+
+[Lenso.ai AI Face Search](https://lenso.ai/en/page/face-search) 
+
+[ProFace Finder AI Face Comprasion](https://profacefinder.com/face-comparison/) 
+
+[Raugen AI Face Comprasion](https://raugen.com/ai-tools/face-comparison)
+
+[The Flux Train AI Face Similarity Score](https://thefluxtrain.com/tools/ai-face-score)
+
+[ChatGPT based ethnicity guessr](https://chatgpt.com/g/g-ckfCaNtJt-ethnicity-guesser)
+
+[Ethnicity Analysis](https://justbuildthings.com/ai-image-analysis/ethnicity-analysis)
+
+[Galaxy AI Face Analyzer](https://image.galaxy.ai/ai-face-analyzer)
+
+
 
 -----------
 
