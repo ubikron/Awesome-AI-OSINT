@@ -86,6 +86,24 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 [EarthKit](https://earthkit.app/)
 [Planet: AI sattelite object detection](https://www.planet.com/products/)
 
+### Face search/analysis tools
+
+[FaceSeek AI Powered Reverse Face Search](https://www.faceseek.online/) 
+
+[Lenso.ai AI Face Search](https://lenso.ai/en/page/face-search) 
+
+[ProFace Finder AI Face Comprasion](https://profacefinder.com/face-comparison/) 
+
+[Raugen AI Face Comprasion](https://raugen.com/ai-tools/face-comparison)
+
+[The Flux Train AI Face Similarity Score](https://thefluxtrain.com/tools/ai-face-score)
+
+[ChatGPT based ethnicity guessr](https://chatgpt.com/g/g-ckfCaNtJt-ethnicity-guesser)
+
+[Ethnicity Analysis](https://justbuildthings.com/ai-image-analysis/ethnicity-analysis)
+
+[Galaxy AI Face Analyzer](https://image.galaxy.ai/ai-face-analyzer)
+
 ### Google Dorks AI tools
 
 [The Dorker](https://www.yeschat.ai/ru/gpts-2OToO2th4j-The-Dorker)  
@@ -127,25 +145,6 @@ Ubikron not only replaces a bunch of browser extensions for analysing browser hi
 [Sherlock Mail](https://github.com/Hamed233/Sherlock-Mail-AI-Powered-Email-Intelligence)
 [OSINT AI CLI](https://github.com/Mawgaming/osint-ai-cli)  
 [AI OSINT Security Analyzer](https://github.com/Armaan29-09-2005/AI-OSINT-Security-Analyzer)  
-
-### Face search/analysis tools
-
-[FaceSeek AI Powered Reverse Face Search](https://www.faceseek.online/) 
-
-[Lenso.ai AI Face Search](https://lenso.ai/en/page/face-search) 
-
-[ProFace Finder AI Face Comprasion](https://profacefinder.com/face-comparison/) 
-
-[Raugen AI Face Comprasion](https://raugen.com/ai-tools/face-comparison)
-
-[The Flux Train AI Face Similarity Score](https://thefluxtrain.com/tools/ai-face-score)
-
-[ChatGPT based ethnicity guessr](https://chatgpt.com/g/g-ckfCaNtJt-ethnicity-guesser)
-
-[Ethnicity Analysis](https://justbuildthings.com/ai-image-analysis/ethnicity-analysis)
-
-[Galaxy AI Face Analyzer](https://image.galaxy.ai/ai-face-analyzer)
-
 
 
 -----------
