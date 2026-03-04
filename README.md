@@ -84,6 +84,7 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 [GEOGPT Free](https://www.yeschat.ai/gpts-9t55QZdKjT7-GeoGPT)  
 [GeoFinder](https://geofinderai.com/)  
 [EarthKit](https://earthkit.app/)
+[GeoInfer](https://geoinfer.com/)
 [Planet: AI sattelite object detection](https://www.planet.com/products/)
 
 ### Face search/analysis tools
