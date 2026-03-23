@@ -105,6 +105,7 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 
 [Wordmonitor](https://www.worldmonitor.app/)  
 [IranWarMap](https://iranwarmap.com/)  
+[GlobalThreatMap](https://github.com/unicodeveloper/globalthreatmap)
 
 
 
