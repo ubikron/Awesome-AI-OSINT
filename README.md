@@ -99,6 +99,7 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 [GeoFinder](https://geofinderai.com/)  
 [EarthKit](https://earthkit.app/)
 [Planet: AI sattelite object detection](https://www.planet.com/products/)
+[Geointel Python package](https://github.com/atiilla/GeoIntel)
 
 
 ### AI worldwide events monitoring dashboards
