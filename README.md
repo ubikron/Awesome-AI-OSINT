@@ -103,8 +103,8 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 
 ### AI worldwide events monitoring dashboards
 
-[Wordmonitor](https://www.worldmonitor.app/)
-[IranWarMap](https://iranwarmap.com/)
+[Wordmonitor](https://www.worldmonitor.app/)  
+[IranWarMap](https://iranwarmap.com/)  
 
 
 
