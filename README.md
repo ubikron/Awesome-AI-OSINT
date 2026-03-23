@@ -120,27 +120,27 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 
 ### Face search/analysis tools
 
-[FaceSeek AI Powered Reverse Face Search](https://www.faceseek.online/) 
-[Lenso.ai AI Face Search](https://lenso.ai/en/page/face-search) 
-[ProFace Finder AI Face Comprasion](https://profacefinder.com/face-comparison/) 
-[Raugen AI Face Comprasion](https://raugen.com/ai-tools/face-comparison)
-[The Flux Train AI Face Similarity Score](https://thefluxtrain.com/tools/ai-face-score)
-[ChatGPT based ethnicity guessr](https://chatgpt.com/g/g-ckfCaNtJt-ethnicity-guesser)
-[Ethnicity Analysis](https://justbuildthings.com/ai-image-analysis/ethnicity-analysis)
-[Galaxy AI Face Analyzer](https://image.galaxy.ai/ai-face-analyzer)
+[FaceSeek AI Powered Reverse Face Search](https://www.faceseek.online/)   
+[Lenso.ai AI Face Search](https://lenso.ai/en/page/face-search)   
+[ProFace Finder AI Face Comprasion](https://profacefinder.com/face-comparison/)   
+[Raugen AI Face Comprasion](https://raugen.com/ai-tools/face-comparison)  
+[The Flux Train AI Face Similarity Score](https://thefluxtrain.com/tools/ai-face-score)  
+[ChatGPT based ethnicity guessr](https://chatgpt.com/g/g-ckfCaNtJt-ethnicity-guesser)  
+[Ethnicity Analysis](https://justbuildthings.com/ai-image-analysis/ethnicity-analysis)  
+[Galaxy AI Face Analyzer](https://image.galaxy.ai/ai-face-analyzer)  
 
 
 ### Subdomain enumeration/search
 
-[God Eye](https://github.com/Vyntral/god-eye)
-[ReconBorne](https://github.com/vylarion/reconborne)
-[AISubs](https://github.com/topscoder/aisubs)
-[SmartSubAI](https://github.com/OCEANOFANYTHING/SmartSubAI)
+[God Eye](https://github.com/Vyntral/god-eye)  
+[ReconBorne](https://github.com/vylarion/reconborne)  
+[AISubs](https://github.com/topscoder/aisubs)  
+[SmartSubAI](https://github.com/OCEANOFANYTHING/SmartSubAI)  
 
 
 ### Username search
 
-[Aliens eye](https://github.com/arxhr007/Aliens_eye)
+[Aliens eye](https://github.com/arxhr007/Aliens_eye)  
 
 
 ### Google Dorks AI tools
