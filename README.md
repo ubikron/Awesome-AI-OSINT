@@ -121,6 +121,14 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 [Ethnicity Analysis](https://justbuildthings.com/ai-image-analysis/ethnicity-analysis)
 [Galaxy AI Face Analyzer](https://image.galaxy.ai/ai-face-analyzer)
 
+
+### Subdomain enumeration/search
+
+[God Eye](https://github.com/Vyntral/god-eye)
+[ReconBorne](https://github.com/vylarion/reconborne)
+[AISubs](https://github.com/topscoder/aisubs)
+[SmartSubAI](https://github.com/OCEANOFANYTHING/SmartSubAI)
+
 ### Google Dorks AI tools
 
 [The Dorker](https://www.yeschat.ai/ru/gpts-2OToO2th4j-The-Dorker)  
@@ -165,6 +173,7 @@ Ubikron not only replaces a bunch of browser extensions for analysing browser hi
 [AI OSINT Security Analyzer](https://github.com/Armaan29-09-2005/AI-OSINT-Security-Analyzer)  
 [ArkhamMirror](https://github.com/1n3202/ArkhamMirror)
 [GeoSentinel 2.0](https://github.com/acuestamd/geosentinel)
+[PANO](https://github.com/ALW1EZ/PANO)
 
 -----------
 
