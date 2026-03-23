@@ -61,7 +61,7 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 
 ### Claude
 
-[OSINT skill for Claude Code, OpenClaw, Codex, OpenCode](https://github.com/smixs/osint-skill)
+[OSINT skill for Claude Code, OpenClaw, Codex, OpenCode](https://github.com/smixs/osint-skill)  
 [Claude OSINT Investigator: Claude code template](https://github.com/danielrosehill/Claude-OSINT-Investigator)
 
 
