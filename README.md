@@ -87,9 +87,9 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 
 ### IP search engines AI
 
-[ZoomEye GPT](https://www.zoomeye.ai/gpt)
-[CensysGPT](https://gpt.censys.io/)
-[ShodanGPT](https://chatgpt.com/g/g-JwmZilzME-shodan-gpt)
+[ZoomEye GPT](https://www.zoomeye.ai/gpt)  
+[CensysGPT](https://gpt.censys.io/)  
+[ShodanGPT](https://chatgpt.com/g/g-JwmZilzME-shodan-gpt)  
 
 ### AI GEOINT
 
