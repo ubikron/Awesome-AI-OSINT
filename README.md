@@ -14,7 +14,7 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 [Prompting AI for Open-Source Intelligence](https://www.osintcombine.com/post/prompting-ai)  
 [Prompt Engineering For OSINT](https://osintteam.blog/prompt-engineering-for-osint-0301d323cb6d)  
 [A new gen of OSINT, AI.](https://osintteam.blog/artificial-intelligence-in-the-service-of-osint-a-revolution-in-information-analysis-4870e0e02163)  
-[AI and OSINT: Crafting Superior Investigation Strategies](https://medium.com/@efim.lerner/ai-and-osint-crafting-superior-investigation-strategies-addccb3012db) 
+[AI and OSINT: Crafting Superior Investigation Strategies](https://medium.com/@efim.lerner/ai-and-osint-crafting-superior-investigation-strategies-addccb3012db)   
 [How to enhance OSINT investigations using AI](https://www.techtarget.com/searchenterpriseai/tip/How-to-enhance-OSINT-investigations-using-AI)  
 [The Impact of AI with OSINT](https://www.youtube.com/watch?v=zgIteU4jEZs)  
 
