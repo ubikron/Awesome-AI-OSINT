@@ -38,6 +38,10 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 [Investigating X Profiles and Posts Using Grok AI](https://bank-security.medium.com/investigating-x-profiles-and-posts-using-grok-ai-91157776783e)   
 
 
+### Claude
+
+[Claude AI for OSINT: What It Does & Where It Fits](https://www.linkedin.com/pulse/claude-ai-osint-what-does-where-fits-toddington-international-yd6yc)
+
 
 ### AI comparisons
 
@@ -49,6 +53,17 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 [Why AI Won’t Replace Human Instinct in OSINT (and Never Should)](https://medium.com/@joetheosintguy/why-ai-wont-replace-human-instinct-in-osint-and-never-should-ff2d39f84dd5)  
 [The Slow Collapse of Critical Thinking in OSINT due to AI](https://shadowdragon.io/blog/the-slow-collapse-of-critical-thinking-in-osint-due-to-ai/)  
 [You’re Not an OSINT Analyst, You’re an AI Prompt Monkey (And it Should Terrify You)](https://www.raebaker.net/blog/youre-not-an-osint-analyst-youre-an-ai-prompt-monkey-and-it-should-terrify-you)  
+
+
+---------
+
+## Skills and templates
+
+### Claude
+
+[OSINT skill for Claude Code, OpenClaw, Codex, OpenCode](https://github.com/smixs/osint-skill)
+[Claude OSINT Investigator: Claude code template](https://github.com/danielrosehill/Claude-OSINT-Investigator)
+
 
 -----------
 
