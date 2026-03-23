@@ -129,6 +129,12 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 [AISubs](https://github.com/topscoder/aisubs)
 [SmartSubAI](https://github.com/OCEANOFANYTHING/SmartSubAI)
 
+
+### Username search
+
+[Aliens eye](https://github.com/arxhr007/Aliens_eye)
+
+
 ### Google Dorks AI tools
 
 [The Dorker](https://www.yeschat.ai/ru/gpts-2OToO2th4j-The-Dorker)  
