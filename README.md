@@ -65,6 +65,14 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 [Claude OSINT Investigator: Claude code template](https://github.com/danielrosehill/Claude-OSINT-Investigator)
 
 
+
+
+---------
+
+## MCP servers
+
+[OSINT Tools MCP Server](https://github.com/frishtik/osint-tools-mcp-server)
+
 -----------
 
 ## Tools
