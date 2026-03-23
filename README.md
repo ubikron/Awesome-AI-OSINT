@@ -132,6 +132,7 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 
 ### AI generated content detection
 
+[ImageWhisperer](https://imagewhisperer.org/)  
 [How to detect deepfakes with AI](https://www.digitaldigging.org/p/how-to-detect-ai-deepfakes-with-ai)  
 [AI Detector](https://aidetector.com/)  
 [Sensity.ai tool](https://sensity.ai/)    
