@@ -195,9 +195,9 @@ Ubikron not only replaces a bunch of browser extensions for analysing browser hi
 [Sherlock Mail](https://github.com/Hamed233/Sherlock-Mail-AI-Powered-Email-Intelligence)
 [OSINT AI CLI](https://github.com/Mawgaming/osint-ai-cli)  
 [AI OSINT Security Analyzer](https://github.com/Armaan29-09-2005/AI-OSINT-Security-Analyzer)  
-[ArkhamMirror](https://github.com/1n3202/ArkhamMirror)
-[GeoSentinel 2.0](https://github.com/acuestamd/geosentinel)
-[PANO](https://github.com/ALW1EZ/PANO)
+[ArkhamMirror](https://github.com/1n3202/ArkhamMirror) 
+[GeoSentinel 2.0](https://github.com/acuestamd/geosentinel)  
+[PANO](https://github.com/ALW1EZ/PANO)  
 
 -----------
 
