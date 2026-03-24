@@ -62,11 +62,20 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 
 ### Claude
 
-[OSINT skill for Claude Code, OpenClaw, Codex, OpenCode](https://github.com/smixs/osint-skill)  
+
 [Claude OSINT Investigator: Claude code template](https://github.com/danielrosehill/Claude-OSINT-Investigator)
 
 
+### OpenClaw
 
+[OSINT Graph Analyzer](https://openclawdir.com/skills/osint-graph-analyzer-3lr21x)
+[Xint - X intelligence](https://clawhub.ai/0xnyk/xint)
+[Ocas Scout](https://clawhub.ai/indigokarasu/ocas-scout)
+[Multi Search Engine](https://clawhub.ai/gpyangyoujun/multi-search-engine)
+[Find People](https://openclawdir.com/skills/find-people-uf0ugu)
+[OSINT Investigator](https://clawskills.sh/skills/cineglobe-osint-investigator)
+[OSINT Human Research](https://clawskills.sh/skills/andrewchen-oss-nuwa-world-osint-human-research)
+[OSINT skill for Claude Code, OpenClaw, Codex, OpenCode](https://github.com/smixs/osint-skill) 
 
 ---------
 
@@ -209,9 +218,5 @@ Don't miss our updates!
 
 [Linkedin](https://www.linkedin.com/company/ubikron/posts/?feedView=all)  
 [YouTube](https://www.youtube.com/watch?v=inLkAmcAgjw)  
-
-
-
-
 
 
