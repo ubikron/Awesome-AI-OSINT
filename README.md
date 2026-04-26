@@ -42,7 +42,7 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 ### Claude
 
 [Claude AI for OSINT: What It Does & Where It Fits](https://www.linkedin.com/pulse/claude-ai-osint-what-does-where-fits-toddington-international-yd6yc)
-
+[OpenRegistry — 27 national company registries via MCP](https://openregistry.sophymarine.com)  
 
 ### AI comparisons
 
