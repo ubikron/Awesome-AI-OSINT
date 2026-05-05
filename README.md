@@ -162,7 +162,7 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 
 [Neuralead](https://neuralead.ai/)  
 [Prospectrin](https://prospectrin.com/)  
-[Expose Team](https://expose.team?utm_source=github.com&utm_campaign=ubikron_Awesome_AI_OSINT) – AI-Powered OSINT at Lightspeed.
+[Expose Team](https://expose.team?utm_source=github.com&utm_campaign=ubikron_Awesome_AI_OSINT)
 
 
 ### AI generated content detection
