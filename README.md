@@ -83,6 +83,8 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 
 [OSINT Tools MCP Server](https://github.com/frishtik/osint-tools-mcp-server)
 
+[GetXAPI MCP Server](https://github.com/getxapi/getxapi-mcp) - MCP server for the GetXAPI Twitter / X data API. 44 endpoints for OSINT collection across reads (search, profiles, follower graph, mentions) and writes.
+
 -----------
 
 ## Tools
