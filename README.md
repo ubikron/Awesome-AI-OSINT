@@ -83,6 +83,8 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 
 [OSINT Tools MCP Server](https://github.com/frishtik/osint-tools-mcp-server)
 
+[The Stall MCP](https://the-stall.intuitek.ai) — 173-tool remote MCP server with OSINT-relevant capabilities: IP intelligence, domain WHOIS, DNS lookup, OFAC sanctions screening, crypto wallet risk scoring, SEC insider trade filings, FEC political donor research, and congressional trading disclosures. No API key needed; x402 pay-per-call on Base.
+
 -----------
 
 ## Tools
