@@ -70,6 +70,7 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 
 [OSINT Graph Analyzer](https://openclawdir.com/skills/osint-graph-analyzer-3lr21x)  
 [Xint - X intelligence](https://clawhub.ai/0xnyk/xint)  
+[TweetClaw by Xquik: OpenClaw plugin for X search, account research, follower exports, monitors, and webhooks](https://github.com/Xquik-dev/tweetclaw)<br>
 [Ocas Scout](https://clawhub.ai/indigokarasu/ocas-scout)  
 [Multi Search Engine](https://clawhub.ai/gpyangyoujun/multi-search-engine)  
 [Find People](https://openclawdir.com/skills/find-people-uf0ugu)  
