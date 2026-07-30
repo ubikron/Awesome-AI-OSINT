@@ -63,7 +63,7 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 ### Claude
 
 
-[Claude OSINT Investigator: Claude code template](https://github.com/danielrosehill/Claude-OSINT-Investigator)
+[Claude OSINT Investigator: Claude code template](https://github.com/davidvasandani/Claude-OSINT-Investigator)
 
 
 ### OpenClaw
