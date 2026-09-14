@@ -138,6 +138,7 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 [ChatGPT based ethnicity guessr](https://chatgpt.com/g/g-ckfCaNtJt-ethnicity-guesser)  
 [Ethnicity Analysis](https://justbuildthings.com/ai-image-analysis/ethnicity-analysis)  
 [Galaxy AI Face Analyzer](https://image.galaxy.ai/ai-face-analyzer)  
+[Face2social AI Reverse Face Search for Social Media](https://face2social.com/)  
 
 
 ### Subdomain enumeration/search
