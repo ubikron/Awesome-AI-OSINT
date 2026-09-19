@@ -172,6 +172,7 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 [AI Detector](https://aidetector.com/)  
 [Sensity.ai tool](https://sensity.ai/)    
 [DeepWare](https://deepware.ai/)  
+[wedetect.ai](https://wedetect.ai/ai-or-not) - free, no-login AI image detector; probability, not a yes/no; image deleted after analysis  
 
 
 ### Multitask AI Tools 
