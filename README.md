@@ -172,6 +172,7 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 [AI Detector](https://aidetector.com/)  
 [Sensity.ai tool](https://sensity.ai/)    
 [DeepWare](https://deepware.ai/)  
+[Sealed Rose](https://sealedrose.com/verify-video)  
 
 
 ### Multitask AI Tools 
