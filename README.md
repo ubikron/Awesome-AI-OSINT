@@ -81,7 +81,8 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 
 ## MCP servers
 
-[OSINT Tools MCP Server](https://github.com/frishtik/osint-tools-mcp-server)
+[OSINT Tools MCP Server](https://github.com/frishtik/osint-tools-mcp-server)  
+[Statsnet MCP](https://github.com/usenetstate/statsnet-mcp) — Background check any company in the world: registration, executives, courts and finances. Remote: https://statsnet.co/mcp
 
 -----------
 
