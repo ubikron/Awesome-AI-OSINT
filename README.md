@@ -189,7 +189,7 @@ Ubikron not only replaces a bunch of browser extensions for analysing browser hi
 ### Command line/self hosted tools
 
 [OSINTGPT](https://github.com/estebanpdl/osintgpt)  
-[Jev Social](https://github.com/socai-io/jev-social) - Local social-media research agent that uses Jev-guided browser operations to search Instagram, TikTok, and LinkedIn, stream captured evidence, and produce cited reports.
+[Jev Social](https://github.com/socai-io/jev-social) - Read-only social research agent where Jev selects bounded Instagram, TikTok, and LinkedIn operations, the local `socai CLI` executes them in the user's Chrome, and source-linked evidence becomes cited reports.
 [Robin:AI-Powered Dark Web OSINT Tool](https://github.com/apurvsinghgautam/robin)  
 [Perplexity Sonar OSINT Assistant](https://github.com/AXRoux/OSINT-Assistant)  
 [DarkGPT](https://github.com/binaco/DarkGPT)  
