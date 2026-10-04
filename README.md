@@ -172,6 +172,7 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 [AI Detector](https://aidetector.com/)  
 [Sensity.ai tool](https://sensity.ai/)    
 [DeepWare](https://deepware.ai/)  
+[isthisaigenerated.app](https://isthisaigenerated.app/site/ai-image-detector/) - free browser-based image, sampled-video, text and document checker; every result is a warning signal with published limits, not proof of origin    
 
 
 ### Multitask AI Tools 
