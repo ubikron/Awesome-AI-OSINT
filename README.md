@@ -185,6 +185,7 @@ Ubikron not only replaces a bunch of browser extensions for analysing browser hi
 [Taranis AI](https://github.com/taranis-ai/taranis-ai) - self-hosted  
 [Cyclect: Ultimate AI OSINT Search Engine](https://cylect.io/) - online  
 [Research Pilot v2.5](https://digitaldigging.org/research/) - online  
+[Drevon](https://www.drevon.dev) - macOS app  
 
 ### Command line/self hosted tools
 
