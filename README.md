@@ -151,6 +151,7 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 ### Username search
 
 [Aliens eye](https://github.com/arxhr007/Aliens_eye)  
+[FootprintIQ](https://footprintiq.app/username-search) - username, email, phone or photo across 400+ public sources, each result scored 0–100 for confidence, with an AI analyst that summarises the findings; free scan, no sign-up  
 
 
 ### Google Dorks AI tools
