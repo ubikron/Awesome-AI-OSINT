@@ -81,6 +81,8 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 
 ## MCP servers
 
+[Arcmira: YouTube Transcript Search](https://arcmira.com/) - YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers. Free tier and paid plans; [setup and API docs](https://arcmira.com/docs/mcp-server).
+
 [OSINT Tools MCP Server](https://github.com/frishtik/osint-tools-mcp-server)
 
 -----------
