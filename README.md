@@ -83,6 +83,8 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 
 [OSINT Tools MCP Server](https://github.com/frishtik/osint-tools-mcp-server)
 
+[OmniForge Launch Audit MCP](https://github.com/zColdWater/mcp-launch-audit) — Read-only MIT MCP server for passive web surface, SPF/DKIM/DMARC/DNSBL email DNS, direct IANA RDAP domain, and USPTO trademark OSINT checks.
+
 -----------
 
 ## Tools
