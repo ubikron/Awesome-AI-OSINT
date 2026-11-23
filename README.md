@@ -81,7 +81,8 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 
 ## MCP servers
 
-[OSINT Tools MCP Server](https://github.com/frishtik/osint-tools-mcp-server)
+[OSINT Tools MCP Server](https://github.com/frishtik/osint-tools-mcp-server)  
+[BrandShield MCP Server](https://github.com/zColdWater/brandshield-cli) — Free read-only Streamable-HTTP MCP server & MIT CLI for 78+ TLD DNS/RDAP, 28-variant typosquatting, USPTO trademark, and developer/social handle OSINT
 
 -----------
 
