@@ -81,6 +81,8 @@ A list of articles, videos, and tools related to the use of AI for OSINT.
 
 ## MCP servers
 
+- [Insomnia Security MCP (CQR Cybersecurity LLC)](https://github.com/CQR-Cybersecurity-LLC/insomnia-mcp) - 159 native cybersecurity, multi-language SAST/taint, live secret validation, SCA/SBOM, Web DAST, OSINT, 21,100+ 1-Day CVE verification, 29-protocol enumeration & Outbound Internal Network Tunnel v4.0 MCP tools (`https://mcp.insom.ai/mcp`, 50 free credits).
+
 [OSINT Tools MCP Server](https://github.com/frishtik/osint-tools-mcp-server)
 
 -----------
